@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Crescendolls",
+    "artist": "Daft Punk",
+    "audioURL": "https://drive.google.com/uc?export=download&id=1wEiR9OLOdibA2AISD0-BYdflKie0dgyd",
+    "coverImage": "Song1"
+  },
+  {
+    "title": "Let It Happen",
+    "artist": "Tame Impala",
+    "audioURL": "https://drive.google.com/uc?export=download&id=1XOOqzrMUX7kEs0GtoYQYBKHSzJQ5cywf"
+,
+    "coverImage": "Song2"
+  },
+  {
+    "title": "Soda Pop",
+    "artist": "Saja Boys",
+    "audioURL": "https://drive.google.com/uc?export=download&id=10_gIoQ9RYqnDVUcLitVn1f_27YBZ8yBE",
+    "coverImage": "Song3"
+  }
+]
